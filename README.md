@@ -1,5 +1,11 @@
 ## Care.io Link Link: https://care-io-delta.vercel.app/
 
+### title: 
+Care.io | Baby Sitting & Elderly Care Service Platform
+
+### description:
+Care.IO is a trusted caregiving platform that helps users book reliable baby sitting, elderly care, and sick people care services based on their preferred time duration and location. Our mission is to make caregiving simple, safe, and accessible for everyone.
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
